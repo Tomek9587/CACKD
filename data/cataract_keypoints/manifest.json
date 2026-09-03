@@ -1,0 +1,156 @@
+{
+  "dataset": "cataract_keypoints",
+  "source": "segmentation_cataract_1k",
+  "cases": [
+    {
+      "name": "case_5013",
+      "frames_dir": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5013",
+      "ann_csv": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5013/ann.csv"
+    },
+    {
+      "name": "case_5014",
+      "frames_dir": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5014",
+      "ann_csv": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5014/ann.csv"
+    },
+    {
+      "name": "case_5015",
+      "frames_dir": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5015",
+      "ann_csv": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5015/ann.csv"
+    },
+    {
+      "name": "case_5016",
+      "frames_dir": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5016",
+      "ann_csv": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5016/ann.csv"
+    },
+    {
+      "name": "case_5017",
+      "frames_dir": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5017",
+      "ann_csv": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5017/ann.csv"
+    },
+    {
+      "name": "case_5032",
+      "frames_dir": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5032",
+      "ann_csv": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5032/ann.csv"
+    },
+    {
+      "name": "case_5051",
+      "frames_dir": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5051",
+      "ann_csv": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5051/ann.csv"
+    },
+    {
+      "name": "case_5057",
+      "frames_dir": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5057",
+      "ann_csv": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5057/ann.csv"
+    },
+    {
+      "name": "case_5058",
+      "frames_dir": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5058",
+      "ann_csv": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5058/ann.csv"
+    },
+    {
+      "name": "case_5063",
+      "frames_dir": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5063",
+      "ann_csv": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5063/ann.csv"
+    },
+    {
+      "name": "case_5072",
+      "frames_dir": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5072",
+      "ann_csv": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5072/ann.csv"
+    },
+    {
+      "name": "case_5104",
+      "frames_dir": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5104",
+      "ann_csv": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5104/ann.csv"
+    },
+    {
+      "name": "case_5180",
+      "frames_dir": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5180",
+      "ann_csv": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5180/ann.csv"
+    },
+    {
+      "name": "case_5299",
+      "frames_dir": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5299",
+      "ann_csv": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5299/ann.csv"
+    },
+    {
+      "name": "case_5300",
+      "frames_dir": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5300",
+      "ann_csv": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5300/ann.csv"
+    },
+    {
+      "name": "case_5301",
+      "frames_dir": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5301",
+      "ann_csv": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5301/ann.csv"
+    },
+    {
+      "name": "case_5303",
+      "frames_dir": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5303",
+      "ann_csv": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5303/ann.csv"
+    },
+    {
+      "name": "case_5304",
+      "frames_dir": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5304",
+      "ann_csv": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5304/ann.csv"
+    },
+    {
+      "name": "case_5305",
+      "frames_dir": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5305",
+      "ann_csv": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5305/ann.csv"
+    },
+    {
+      "name": "case_5309",
+      "frames_dir": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5309",
+      "ann_csv": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5309/ann.csv"
+    },
+    {
+      "name": "case_5315",
+      "frames_dir": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5315",
+      "ann_csv": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5315/ann.csv"
+    },
+    {
+      "name": "case_5316",
+      "frames_dir": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5316",
+      "ann_csv": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5316/ann.csv"
+    },
+    {
+      "name": "case_5317",
+      "frames_dir": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5317",
+      "ann_csv": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5317/ann.csv"
+    },
+    {
+      "name": "case_5319",
+      "frames_dir": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5319",
+      "ann_csv": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5319/ann.csv"
+    },
+    {
+      "name": "case_5325",
+      "frames_dir": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5325",
+      "ann_csv": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5325/ann.csv"
+    },
+    {
+      "name": "case_5329",
+      "frames_dir": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5329",
+      "ann_csv": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5329/ann.csv"
+    },
+    {
+      "name": "case_5334",
+      "frames_dir": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5334",
+      "ann_csv": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5334/ann.csv"
+    },
+    {
+      "name": "case_5335",
+      "frames_dir": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5335",
+      "ann_csv": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5335/ann.csv"
+    },
+    {
+      "name": "case_5340",
+      "frames_dir": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5340",
+      "ann_csv": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5340/ann.csv"
+    },
+    {
+      "name": "case_5353",
+      "frames_dir": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5353",
+      "ann_csv": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/cataract_keypoints/frames/case_5353/ann.csv"
+    }
+  ]
+}

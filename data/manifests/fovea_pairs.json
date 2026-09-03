@@ -1,0 +1,362 @@
+[
+  {
+    "patient_id": "FOVEA001",
+    "intra_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA001_i_img.png",
+    "pre_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA001_p_img.png",
+    "pre_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA001_p_ve_1.png",
+    "pre_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA001_p_od_1.png",
+    "intra_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA001_i_ve_1.png",
+    "intra_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA001_i_od_1.png"
+  },
+  {
+    "patient_id": "FOVEA002",
+    "intra_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA002_i_img.png",
+    "pre_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA002_p_img.png",
+    "pre_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA002_p_ve_1.png",
+    "pre_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA002_p_od_1.png",
+    "intra_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA002_i_ve_1.png",
+    "intra_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA002_i_od_1.png"
+  },
+  {
+    "patient_id": "FOVEA003",
+    "intra_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA003_i_img.png",
+    "pre_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA003_p_img.png",
+    "pre_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA003_p_ve_1.png",
+    "pre_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA003_p_od_1.png",
+    "intra_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA003_i_ve_1.png",
+    "intra_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA003_i_od_1.png"
+  },
+  {
+    "patient_id": "FOVEA004",
+    "intra_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA004_i_img.png",
+    "pre_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA004_p_img.png",
+    "pre_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA004_p_ve_1.png",
+    "pre_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA004_p_od_1.png",
+    "intra_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA004_i_ve_1.png",
+    "intra_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA004_i_od_1.png"
+  },
+  {
+    "patient_id": "FOVEA005",
+    "intra_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA005_i_img.png",
+    "pre_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA005_p_img.png",
+    "pre_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA005_p_ve_1.png",
+    "pre_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA005_p_od_1.png",
+    "intra_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA005_i_ve_1.png",
+    "intra_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA005_i_od_1.png"
+  },
+  {
+    "patient_id": "FOVEA006",
+    "intra_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA006_i_img.png",
+    "pre_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA006_p_img.png",
+    "pre_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA006_p_ve_1.png",
+    "pre_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA006_p_od_1.png",
+    "intra_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA006_i_ve_1.png",
+    "intra_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA006_i_od_1.png"
+  },
+  {
+    "patient_id": "FOVEA007",
+    "intra_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA007_i_img.png",
+    "pre_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA007_p_img.png",
+    "pre_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA007_p_ve_1.png",
+    "pre_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA007_p_od_1.png",
+    "intra_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA007_i_ve_1.png",
+    "intra_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA007_i_od_1.png"
+  },
+  {
+    "patient_id": "FOVEA008",
+    "intra_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA008_i_img.png",
+    "pre_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA008_p_img.png",
+    "pre_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA008_p_ve_1.png",
+    "pre_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA008_p_od_1.png",
+    "intra_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA008_i_ve_1.png",
+    "intra_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA008_i_od_1.png"
+  },
+  {
+    "patient_id": "FOVEA009",
+    "intra_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA009_i_img.png",
+    "pre_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA009_p_img.png",
+    "pre_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA009_p_ve_1.png",
+    "pre_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA009_p_od_1.png",
+    "intra_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA009_i_ve_1.png",
+    "intra_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA009_i_od_1.png"
+  },
+  {
+    "patient_id": "FOVEA010",
+    "intra_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA010_i_img.png",
+    "pre_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA010_p_img.png",
+    "pre_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA010_p_ve_1.png",
+    "pre_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA010_p_od_1.png",
+    "intra_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA010_i_ve_1.png",
+    "intra_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA010_i_od_1.png"
+  },
+  {
+    "patient_id": "FOVEA011",
+    "intra_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA011_i_img.png",
+    "pre_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA011_p_img.png",
+    "pre_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA011_p_ve_1.png",
+    "pre_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA011_p_od_1.png",
+    "intra_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA011_i_ve_1.png",
+    "intra_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA011_i_od_1.png"
+  },
+  {
+    "patient_id": "FOVEA012",
+    "intra_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA012_i_img.png",
+    "pre_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA012_p_img.png",
+    "pre_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA012_p_ve_1.png",
+    "pre_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA012_p_od_1.png",
+    "intra_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA012_i_ve_1.png",
+    "intra_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA012_i_od_1.png"
+  },
+  {
+    "patient_id": "FOVEA013",
+    "intra_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA013_i_img.png",
+    "pre_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA013_p_img.png",
+    "pre_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA013_p_ve_1.png",
+    "pre_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA013_p_od_1.png",
+    "intra_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA013_i_ve_1.png",
+    "intra_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA013_i_od_1.png"
+  },
+  {
+    "patient_id": "FOVEA014",
+    "intra_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA014_i_img.png",
+    "pre_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA014_p_img.png",
+    "pre_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA014_p_ve_1.png",
+    "pre_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA014_p_od_1.png",
+    "intra_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA014_i_ve_1.png",
+    "intra_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA014_i_od_1.png"
+  },
+  {
+    "patient_id": "FOVEA015",
+    "intra_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA015_i_img.png",
+    "pre_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA015_p_img.png",
+    "pre_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA015_p_ve_1.png",
+    "pre_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA015_p_od_1.png",
+    "intra_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA015_i_ve_1.png",
+    "intra_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA015_i_od_1.png"
+  },
+  {
+    "patient_id": "FOVEA016",
+    "intra_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA016_i_img.png",
+    "pre_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA016_p_img.png",
+    "pre_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA016_p_ve_1.png",
+    "pre_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA016_p_od_1.png",
+    "intra_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA016_i_ve_1.png",
+    "intra_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA016_i_od_1.png"
+  },
+  {
+    "patient_id": "FOVEA017",
+    "intra_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA017_i_img.png",
+    "pre_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA017_p_img.png",
+    "pre_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA017_p_ve_1.png",
+    "pre_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA017_p_od_1.png",
+    "intra_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA017_i_ve_1.png",
+    "intra_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA017_i_od_1.png"
+  },
+  {
+    "patient_id": "FOVEA018",
+    "intra_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA018_i_img.png",
+    "pre_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA018_p_img.png",
+    "pre_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA018_p_ve_1.png",
+    "pre_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA018_p_od_1.png",
+    "intra_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA018_i_ve_1.png",
+    "intra_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA018_i_od_1.png"
+  },
+  {
+    "patient_id": "FOVEA019",
+    "intra_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA019_i_img.png",
+    "pre_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA019_p_img.png",
+    "pre_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA019_p_ve_1.png",
+    "pre_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA019_p_od_1.png",
+    "intra_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA019_i_ve_1.png",
+    "intra_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA019_i_od_1.png"
+  },
+  {
+    "patient_id": "FOVEA020",
+    "intra_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA020_i_img.png",
+    "pre_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA020_p_img.png",
+    "pre_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA020_p_ve_1.png",
+    "pre_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA020_p_od_1.png",
+    "intra_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA020_i_ve_1.png",
+    "intra_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA020_i_od_1.png"
+  },
+  {
+    "patient_id": "FOVEA021",
+    "intra_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA021_i_img.png",
+    "pre_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA021_p_img.png",
+    "pre_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA021_p_ve_1.png",
+    "pre_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA021_p_od_1.png",
+    "intra_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA021_i_ve_1.png",
+    "intra_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA021_i_od_1.png"
+  },
+  {
+    "patient_id": "FOVEA022",
+    "intra_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA022_i_img.png",
+    "pre_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA022_p_img.png",
+    "pre_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA022_p_ve_1.png",
+    "pre_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA022_p_od_1.png",
+    "intra_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA022_i_ve_1.png",
+    "intra_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA022_i_od_1.png"
+  },
+  {
+    "patient_id": "FOVEA023",
+    "intra_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA023_i_img.png",
+    "pre_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA023_p_img.png",
+    "pre_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA023_p_ve_1.png",
+    "pre_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA023_p_od_1.png",
+    "intra_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA023_i_ve_1.png",
+    "intra_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA023_i_od_1.png"
+  },
+  {
+    "patient_id": "FOVEA024",
+    "intra_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA024_i_img.png",
+    "pre_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA024_p_img.png",
+    "pre_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA024_p_ve_1.png",
+    "pre_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA024_p_od_1.png",
+    "intra_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA024_i_ve_1.png",
+    "intra_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA024_i_od_1.png"
+  },
+  {
+    "patient_id": "FOVEA025",
+    "intra_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA025_i_img.png",
+    "pre_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA025_p_img.png",
+    "pre_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA025_p_ve_1.png",
+    "pre_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA025_p_od_1.png",
+    "intra_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA025_i_ve_1.png",
+    "intra_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA025_i_od_1.png"
+  },
+  {
+    "patient_id": "FOVEA026",
+    "intra_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA026_i_img.png",
+    "pre_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA026_p_img.png",
+    "pre_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA026_p_ve_1.png",
+    "pre_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA026_p_od_1.png",
+    "intra_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA026_i_ve_1.png",
+    "intra_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA026_i_od_1.png"
+  },
+  {
+    "patient_id": "FOVEA027",
+    "intra_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA027_i_img.png",
+    "pre_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA027_p_img.png",
+    "pre_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA027_p_ve_1.png",
+    "pre_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA027_p_od_1.png",
+    "intra_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA027_i_ve_1.png",
+    "intra_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA027_i_od_1.png"
+  },
+  {
+    "patient_id": "FOVEA028",
+    "intra_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA028_i_img.png",
+    "pre_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA028_p_img.png",
+    "pre_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA028_p_ve_1.png",
+    "pre_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA028_p_od_1.png",
+    "intra_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA028_i_ve_1.png",
+    "intra_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA028_i_od_1.png"
+  },
+  {
+    "patient_id": "FOVEA029",
+    "intra_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA029_i_img.png",
+    "pre_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA029_p_img.png",
+    "pre_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA029_p_ve_1.png",
+    "pre_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA029_p_od_1.png",
+    "intra_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA029_i_ve_1.png",
+    "intra_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA029_i_od_1.png"
+  },
+  {
+    "patient_id": "FOVEA030",
+    "intra_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA030_i_img.png",
+    "pre_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA030_p_img.png",
+    "pre_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA030_p_ve_1.png",
+    "pre_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA030_p_od_1.png",
+    "intra_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA030_i_ve_1.png",
+    "intra_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA030_i_od_1.png"
+  },
+  {
+    "patient_id": "FOVEA031",
+    "intra_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA031_i_img.png",
+    "pre_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA031_p_img.png",
+    "pre_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA031_p_ve_1.png",
+    "pre_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA031_p_od_1.png",
+    "intra_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA031_i_ve_1.png",
+    "intra_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA031_i_od_1.png"
+  },
+  {
+    "patient_id": "FOVEA032",
+    "intra_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA032_i_img.png",
+    "pre_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA032_p_img.png",
+    "pre_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA032_p_ve_1.png",
+    "pre_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA032_p_od_1.png",
+    "intra_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA032_i_ve_1.png",
+    "intra_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA032_i_od_1.png"
+  },
+  {
+    "patient_id": "FOVEA033",
+    "intra_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA033_i_img.png",
+    "pre_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA033_p_img.png",
+    "pre_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA033_p_ve_1.png",
+    "pre_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA033_p_od_1.png",
+    "intra_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA033_i_ve_1.png",
+    "intra_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA033_i_od_1.png"
+  },
+  {
+    "patient_id": "FOVEA034",
+    "intra_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA034_i_img.png",
+    "pre_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA034_p_img.png",
+    "pre_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA034_p_ve_1.png",
+    "pre_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA034_p_od_1.png",
+    "intra_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA034_i_ve_1.png",
+    "intra_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA034_i_od_1.png"
+  },
+  {
+    "patient_id": "FOVEA035",
+    "intra_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA035_i_img.png",
+    "pre_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA035_p_img.png",
+    "pre_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA035_p_ve_1.png",
+    "pre_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA035_p_od_1.png",
+    "intra_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA035_i_ve_1.png",
+    "intra_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA035_i_od_1.png"
+  },
+  {
+    "patient_id": "FOVEA036",
+    "intra_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA036_i_img.png",
+    "pre_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA036_p_img.png",
+    "pre_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA036_p_ve_1.png",
+    "pre_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA036_p_od_1.png",
+    "intra_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA036_i_ve_1.png",
+    "intra_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA036_i_od_1.png"
+  },
+  {
+    "patient_id": "FOVEA037",
+    "intra_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA037_i_img.png",
+    "pre_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA037_p_img.png",
+    "pre_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA037_p_ve_1.png",
+    "pre_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA037_p_od_1.png",
+    "intra_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA037_i_ve_1.png",
+    "intra_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA037_i_od_1.png"
+  },
+  {
+    "patient_id": "FOVEA038",
+    "intra_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA038_i_img.png",
+    "pre_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA038_p_img.png",
+    "pre_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA038_p_ve_1.png",
+    "pre_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA038_p_od_1.png",
+    "intra_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA038_i_ve_1.png",
+    "intra_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA038_i_od_1.png"
+  },
+  {
+    "patient_id": "FOVEA039",
+    "intra_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA039_i_img.png",
+    "pre_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA039_p_img.png",
+    "pre_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA039_p_ve_1.png",
+    "pre_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA039_p_od_1.png",
+    "intra_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA039_i_ve_1.png",
+    "intra_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA039_i_od_1.png"
+  },
+  {
+    "patient_id": "FOVEA040",
+    "intra_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA040_i_img.png",
+    "pre_img": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA040_p_img.png",
+    "pre_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA040_p_ve_1.png",
+    "pre_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA040_p_od_1.png",
+    "intra_vessel": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA040_i_ve_1.png",
+    "intra_od": "/root/autodl-tmp/longfei/surgical_tracking/data/FOVEA/FOVEA040_i_od_1.png"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "sequences": [
+    {
+      "name": "seq1",
+      "frames_dir": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/RMIT/seq1",
+      "ann_csv": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/RMIT/seq1/ann.csv"
+    },
+    {
+      "name": "seq2",
+      "frames_dir": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/RMIT/seq2",
+      "ann_csv": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/RMIT/seq2/ann.csv"
+    },
+    {
+      "name": "seq3",
+      "frames_dir": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/RMIT/seq3",
+      "ann_csv": "/root/autodl-tmp/root/autodl-tmp/longfei/surgical_tracking/data/RMIT/seq3/ann.csv"
+    }
+  ]
+}
